@@ -10263,3 +10263,14 @@ form .row:first-child .floating-label-form-group {
 .about {
   width: 580px;
 }
+
+.technology i {
+  font-size: 4rem;
+  margin: 10px;
+}
+
+.technology img {
+  height: 4rem;
+  width: 4rem;
+  margin: -38px 10px 10px 10px;
+}
