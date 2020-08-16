@@ -10315,3 +10315,7 @@ form .row:first-child .floating-label-form-group {
   height: 24px;
   width: 24px;
 }
+
+.bg-skills {
+  background-color: #ccfffb;
+}
